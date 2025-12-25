@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Priyansh Neel Lederer" />
 </h1>
 <h3 align="center">A passionate full-Stack Developer from India</h3>
-<img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
+<img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neel123priyansh&label=Profile%20views&color=0e75b6&style=flat" alt="neel123priyansh" /> </p>
