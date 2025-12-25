@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/gouri53/gouri53/blob/main/name.svg" alt="Gouri Manocha" />
+  <img src="https://github.com/gouri53/gouri53/blob/main/name.svg" alt="Gouri Manocha"/>
 </h1>
-<h3 align="center">A passionate full-Stack Developer from India</h3>
+<h3 align="center">A passionate full-Stack Developer from India 👋</h3>
 <img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 
